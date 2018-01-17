@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+    <credential id="Adrian.sandbox" sfdc-type="login">
+        <admin name="adrian@jalasoft.com.adrian01" password="Admin1234" token=""/>
+        <user id="cabmember" name="" password="" token=""/>
+        <user id="fullaccess" name="" password="" token=""/>
+        <user id="portal" name="" password="" token=""/>
+        <user id="readonly" name="" password="" token=""/>
+        <user id="standard" name="" password="" token=""/>
+        <user id="vendor" name="" password="" token=""/>
+    </credential>
+    <credential id="Adrian.pack" sfdc-type="login">
+        <admin name="adrian@jalasoft.com.adrian01" password="Admin1234" token=""/>
+        <user id="cabmember" name="" password="" token=""/>
+        <user id="fullaccess" name="" password="" token=""/>
+        <user id="portal" name="" password="" token=""/>
+        <user id="readonly" name="" password="" token=""/>
+        <user id="standard" name="" password="" token=""/>
+        <user id="vendor" name="" password="" token=""/>
+    </credential>
+</account>
